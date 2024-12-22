@@ -9,9 +9,13 @@ All decals are provided as a .png image file and a .xcf GIMP project file.
 Missing something? In case you have any requests or suggestions for additional decals for this library, you may create an issue with the "request" label. If possible, please include appropriate reference material for the decal you want represented.
 
 ## Usage
-You may utilise the files in this repository for your own train liveries. However, while doing so, you must **not** do the following unless disclosed in a prior agreement
-1. **Use the files without crediting us (ilo sama RAIL)**
-2. **Use the files outside of train simulators**
-3. **Use the files commercially**
+You may utilise the files in this repository for your own train liveries. However, while doing so, you must follow the following rules unless disclosed in a prior agreement
+1. **Do not use the files without crediting us (ilo sama RAIL)**
+2. **Do not use the files outside of train simulators**
+3. **Do not use the files commercially**
 
-###### last updated 10/12/2024
+## Known Issues
+- Fonts in DB WLS decals
+  The font in our DB WLS decals are inaccurate due to the real font (DB WLS) not being available. For now, as a replacement, we are using Nimbus Sans L, a free alternative to Helvetica. We may attempt to recreate DB WLS in the future, though we cannot confirm anything quite yet.
+
+###### last updated 23/12/2024
