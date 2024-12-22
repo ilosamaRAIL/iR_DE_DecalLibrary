@@ -15,7 +15,8 @@ You may utilise the files in this repository for your own train liveries. Howeve
 3. **Do not use the files commercially**
 
 ## Known Issues
-- Fonts in DB WLS decals
+- **Fonts in DB WLS decals**
+
   The font in our DB WLS decals are inaccurate due to the real font (DB WLS) not being available. For now, as a replacement, we are using Nimbus Sans L, a free alternative to Helvetica. We may attempt to recreate DB WLS in the future, though we cannot confirm anything quite yet.
 
 ###### last updated 23/12/2024
